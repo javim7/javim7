@@ -21,7 +21,7 @@ Overall, I'm a dedicated and enthusiastic computer science student with a passio
 ## Examples of Work
 <div style="display: flex; flex-wrap: wrap; margin: 0 auto;">
   <img src="https://github.com/javim7/javim7/blob/main/opensea.png" width="275" height="165"/>   
-  <img src="https://github.com/javim7/javim7/blob/main/memeflix2.jpeg" width="275" height="165"/>
+  <img src="https://github.com/javim7/javim7/blob/main/memeflix.jpeg" width="275" height="165"/>
   <img src="https://github.com/javim7/javim7/blob/main/livechat.png" width="275" height="165"/>
   <img src="https://github.com/javim7/javim7/blob/main/cssArt.png" width="275" height="165"/>
   <img src="https://github.com/javim7/javim7/blob/main/labrynth.png" width="275" height="165"/>
