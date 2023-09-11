@@ -1,4 +1,4 @@
-![Computer Science Student](https://github.com/javim7/javim7/blob/main/banner.png)
+![Computer Science Student](https://github.com/javim7/javim7/blob/main/bannerJavi.png)
 
 <p align="center" dir="auto">
   Visitor Count
