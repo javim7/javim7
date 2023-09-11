@@ -6,7 +6,10 @@
    <img src="https://profile-counter.glitch.me/javim7/count.svg" />
 </p>
 
-# Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Javi Mombiela</h1>
+<h3 align="center">Be Aware, Be Safe!</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/javim7/javim7/blob/main/hacking.gif">
+
 I'm Javier Mombiela, and I'm a computer science student from Guatemala currently in my 4th year of undergraduate studies. Through my coursework, I've gained expertise in a variety of programming languages, and skills.
 
 I am a lifelong learner, and I enjoy exploring new skills and programming languages. For me, every day is an opportunity to learn something new and exciting in the tech world. I am always on the lookout for new challenges and projects that can help me grow my skills and experience.
