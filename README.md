@@ -40,6 +40,7 @@ Overall, I'm a dedicated and enthusiastic computer science student with a passio
 <a href="https://instagram.com/javimombiela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javimombiela" height="30" width="40" /></a>
 <a href="https://discord.gg/javimombiela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javimombiela" height="30" width="40" /></a>
 </p>
+<p align="center"> 📩 <a href="mailto:rjmombiela@gmail.com">rjmombiela@gmail.com</a> </p>
 
 ## Lenguages and Tools
 
